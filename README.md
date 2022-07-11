@@ -1,4 +1,4 @@
-# FINANCE MANAGER - AN APPLICATION TO MANAGE YOUR SPENDING THROUGHOUT THE MONTH
+# FINANCE MANAGER
 
 The context of this application: Over the last few months, I've been spending my money like a foking crazy motherfoker. So, in order to manage, double check what I have spent,
 I decided to make a financial application, which can record my spending... or any foking feature that I can think of in the future.
